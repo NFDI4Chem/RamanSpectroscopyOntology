@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+title:           The Vibrational Spectroscopy Ontology (VIBSO)
+type:            software
+version:         .....
+doi:             https://doi.org/10.5281/zenodo.10410722
+date-released:   ......
+repository-code: https://github.com/NFDI4Chem/VibrationalSpectroscopyOntology/tags
+license:         CC-BY 4.0 international
+abstract:        The Vibrational Spectroscopy Ontology (VIBSO) is used to represent information regarding the execution and analysis of vibrational spectroscopy assays. That means it is intended to be used to semantically annotate the research data that is produced in such experiments with regard to the devices and lab protocols being used, the data being produced thereby (e.g the actual spectra) as well as other important metadata.
+keywords:
+  - Chemistry
+  - Vibrational spectroscopy
+  - Optical spectroscopy
+  - Raman spectroscopy
+  - Optical microscopy
+  - NFDI
+  - NFDI4Chem
+  - Ontology
+authors:
+  - family-names: Strömert
+    given-names:  Philip
+    orcid:        https://orcid.org/0000-0002-1595-3213
+  - family-names: Lanza
+    given-names:  Giacomo
+    orcid:        https://orcid.org/0000-0002-2239-3955
+  - family-names: Hunold
+    given-names:  Johannes
+    orcid:        https://orcid.org/0000-0002-4378-6061
+  - family-names: Neumann
+    given-names:  Steffen
+    orcid:        https://orcid.org/0000-0002-7899-7192
+  - family-names: ??????
+    given-names:  ?????
+    orcid:        https://orcid.org/........
+
+references: .....
